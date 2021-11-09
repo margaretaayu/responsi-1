@@ -7,3 +7,9 @@ Buatlah sebuah repository di Github dengan nama responsi-1.
 Di dalam repository responsi1, buatlah 2 branch baru dengan nama yang berbeda.
 Kemudian, buatlah file untuk masing-masing branch tersebut, edit file tersebut setidaknya 2 kali commit.
 Lakukan merge branch baru yang telah di buat ke dalam branch main (utama).
+
+Lakukan clone repository github responsi-1 ke komputer lokal.
+Lakukan inisialisasi git pada folder hasil clone tersebut dengan menggunakan git bash.
+Buatlah setidaknya 2 file baru pada git di komputer lokal.
+Lakukan Commit pada file tersebut.
+Kemudian lakukan push folder git lokal ke repository responsi-1 di Github.
