@@ -1,0 +1,4 @@
+Tunjukkan dengan menggunakan Command Promt (CMD) di Windows, bagaimana cara berikut:
+a) Memindahkan File
+b) Menyalin File dan Folder
+c) Menghapus File dan Folder
