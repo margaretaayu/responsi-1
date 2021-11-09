@@ -20,3 +20,5 @@ Jawab:
 a)Untuk memindahkan file menggunakan perintah "move namafile folder_tujuan"
 b)Untuk menyalin file menggunakan perintah "copy namafile folder_tujuan"
   Untuk menyalin folder yang di dalamnya terdapat file dan subfolder menggunakan perintah "xcopy /s namafile folder_tujuan"
+c)Untuk menghapus file menggunakan perintah "del nama_file"
+  Untuk menghapus folder menggunakan perintah "rmdir nama_folder"
