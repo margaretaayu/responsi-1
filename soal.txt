@@ -13,3 +13,8 @@ Lakukan inisialisasi git pada folder hasil clone tersebut dengan menggunakan git
 Buatlah setidaknya 2 file baru pada git di komputer lokal.
 Lakukan Commit pada file tersebut.
 Kemudian lakukan push folder git lokal ke repository responsi-1 di Github.
+
+
+
+Jawab:
+a)Untuk memindahkan file menggunakan perintah "move namafile folder_tujuan"
