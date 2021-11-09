@@ -2,3 +2,8 @@ Tunjukkan dengan menggunakan Command Promt (CMD) di Windows, bagaimana cara beri
 a) Memindahkan File
 b) Menyalin File dan Folder
 c) Menghapus File dan Folder
+
+Buatlah sebuah repository di Github dengan nama responsi-1.
+Di dalam repository responsi1, buatlah 2 branch baru dengan nama yang berbeda.
+Kemudian, buatlah file untuk masing-masing branch tersebut, edit file tersebut setidaknya 2 kali commit.
+Lakukan merge branch baru yang telah di buat ke dalam branch main (utama).
