@@ -1,0 +1,30 @@
+Perintah Dasar Command Prompt (CMD)
+windows
+
+Navigasi
+>cd nama_folder
+ masuk ke dalam folder yang dimaksud
+>cd ..
+ kembali ke direktori / folder sebelumnya
+
+Melihat Isi Direktori / Folder
+>dir
+ menampilkan semua isi yang ada di dalam sebuah direktori / folder
+
+Membuat Direktori / Folder
+>mkdir nama_folder
+ membuat folder baru
+
+Menghapus Folder dan File
+>rmdir nama_folder
+ menghapus direktori / folder
+>del nama_file
+ menghapus file
+
+Menyalin File
+>copy namafile folder_tujuan
+ menyalin file ke dalam folder yang dituju
+
+Memindahkan File
+>move namafile folder_tujuan
+ memindahkan file ke dalam folder yang dituju
