@@ -22,3 +22,8 @@ b)Untuk menyalin file menggunakan perintah "copy namafile folder_tujuan"
   Untuk menyalin folder yang di dalamnya terdapat file dan subfolder menggunakan perintah "xcopy /s namafile folder_tujuan"
 c)Untuk menghapus file menggunakan perintah "del nama_file"
   Untuk menghapus folder menggunakan perintah "rmdir nama_folder"
+
+1. Buka https://github.com/. Jika belum memiliki akun, silakan buat akun terlebih dahulu.
+   Jika sudah selesai membuat akun atau sudah memiliki akun, ikutilah langkah-langkah sebagai berikut:
+   klik pojok kanan atas (gambar profil) > pilih Your repositories.
+2. Setelah masuk ke repository, pilih New > isi nama repository yaitu responsi-1
