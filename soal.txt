@@ -27,3 +27,7 @@ c)Untuk menghapus file menggunakan perintah "del nama_file"
    Jika sudah selesai membuat akun atau sudah memiliki akun, ikutilah langkah-langkah sebagai berikut:
    klik pojok kanan atas (gambar profil) > pilih Your repositories.
 2. Setelah masuk ke repository, pilih New > isi nama repository yaitu responsi-1
+3. Kita akan membuat branch baru dengan langkah berikut:
+   pilih Edit this file > tambahkan isi pada file > isi keterangan apa yang kita lakukan pada repository >
+   pilih Create a new branch for this commit and start a pull request > isilah nama file >
+   setelah berhasil isilah keterangan > klik Create pull request > klik Marge pull request
