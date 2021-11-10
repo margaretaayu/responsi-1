@@ -31,3 +31,10 @@ c)Untuk menghapus file menggunakan perintah "del nama_file"
    pilih Edit this file > tambahkan isi pada file > isi keterangan apa yang kita lakukan pada repository >
    pilih Create a new branch for this commit and start a pull request > isilah nama file >
    setelah berhasil isilah keterangan > klik Create pull request > klik Marge pull request
+4. Edit file dengan langkah berikut:
+   klik file seperti soal.txt > pilih Edit this file > ketik isi > commit file dengan keterangan langkah yang sudah dilakukan
+   Kemudian jika ingin edit file lagi lakukan langkah-langkah seperti di atas
+5. Kita akan marge branch baru dengan langkah:
+   klik Contribute pada branch baru > kemudian akan otomatis masuk pada Pull request > klik Marge pull request > klik Confirm marge
+   Setelah selesai marge warna akan berubah menjadi ungu. Jangan lupa cek pada branch main apakah sudah berhasil!
+   
